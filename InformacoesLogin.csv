@@ -1,0 +1,12 @@
+testAdicionarUsuarioNulo,email,password
+                        ,      ,
+                        ,testetest@teste.com.br, 656644546456445644456464
+                        ,michele.cardosoqa@gmail.com, 3323.66.6.6
+                        ,0000000000000000000000000000000000, 000000000000000000000000
+
+testAdicionarUsuarioValido,email,password
+                          ,email valido, senha valida
+
+
+
+
